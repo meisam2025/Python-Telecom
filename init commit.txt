@@ -1,1 +1,2 @@
-first init commit
+hi this is my first init commit.
+this is my second line.
